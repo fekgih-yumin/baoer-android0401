@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/wufan/android/baoer_android/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="810f41e5b7fd99f196ebeabe865ba2c54e7e76dc">
+        <dex dex="/Users/wufan/android/baoer_android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.2.0_44e72be74599a2822b8b7ece2ea39c896dde1871/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/wufan/android/baoer_android/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ee394a892dd21c03a528139c1e8d4e0e1264ac84">
+        <dex dex="/Users/wufan/android/baoer_android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.2.0_9859d88c9568142fa4ed8fc5698fc5752d21a05f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/wufan/android/baoer_android/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e820b7be8c035dd522da4bc822e8a76c8e27921a">
+        <dex dex="/Users/wufan/android/baoer_android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.2.0_1e2e7a7f499c2ef9e1ba4e9173117312d0d06985/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/wufan/android/baoer_android/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="67eb33110dbacb46a48175b08ae0c96761d2c17d">
+        <dex dex="/Users/wufan/android/baoer_android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.2.0_ba678f7e4ae4b8bc35808787dcc64a0f903f7693/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/wufan/android/baoer_android/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0486c83d1db72116c8a0658b9d902b4226747487">
+        <dex dex="/Users/wufan/android/baoer_android/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_8f87326d9f67e3a3e4938b9ad55d264e01b47d8f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/wufan/android/baoer_android/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/wufan/android/baoer_android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.2.0_94ec619d228848bee99fe8b366c124c90a89c3d9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/wufan/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.2.0/support-annotations-25.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a5a82a027706397fff621b22fd6fa796e91d7c5">
+        <dex dex="/Users/wufan/android/baoer_android/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.2.0_1a2fb1d516220f843e75e5b7943e6b792b757e60/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/wufan/android/baoer_android/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cb454b52545859ed2f24a6c01366805b0fa04b22">
+        <dex dex="/Users/wufan/android/baoer_android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.2.0_87cd27757d9deaf4efac839cf9e629e14eb1fac9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/wufan/android/baoer_android/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fa0446a14ed5dd3725047d6399ffea771a564b30">
+        <dex dex="/Users/wufan/android/baoer_android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.2.0_62e76cd490f5feb92d81c95adbaadd02117f1fa7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/wufan/android/baoer_android/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cfc051b4ceec3f75f6351cc5c550aaf9cd258eed">
+        <dex dex="/Users/wufan/android/baoer_android/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_4b3b810ec4cd8d62a39b6518d198e9ccab1832a5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/wufan/android/baoer_android/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8fe8a8f77d651982ce5e18f6187dc4daf914ac57">
+        <dex dex="/Users/wufan/android/baoer_android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.2.0_23f98363bbb4e95b0b2c5be99db78b69816ccbef/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/wufan/android/baoer_android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="702d339bc0a81d21354cd7e2cf2b67225fa4a16c">
+        <dex dex="/Users/wufan/android/baoer_android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.2.0_75fe9b3b1246f824b8a7c373ecace31ae3dabe8e/classes.dex" />
+    </item>
+
+</items>
