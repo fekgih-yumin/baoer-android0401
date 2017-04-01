@@ -1,0 +1,32 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.wufan.baoer_android.login.LoginFragment">
+
+    <EditText
+        android:id="@+id/invitationCode"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="请输入邀请码"
+        android:background="@color/editTextBackgroud"
+        android:layout_marginRight="24dp"
+        android:layout_marginLeft="24dp"
+        android:height="48dp"
+        android:layout_marginTop="200dp"
+        android:textColorHint="@color/gray"
+        />
+    <Button
+        android:id="@+id/btn_phoneLogin"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/blue"
+        android:text="手机登录"
+        android:textSize="@dimen/activity_horizontal_margin"
+        android:textColor="@color/white"
+        android:layout_marginRight="24dp"
+        android:layout_marginLeft="24dp"
+        android:height="48dp"
+        android:layout_marginTop="260dp"/>
+
+</FrameLayout>

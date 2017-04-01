@@ -1,0 +1,44 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.wufan.baoer_android.main.HifiMusic.search.SearchFragment">
+
+    <LinearLayout
+        android:layout_width="@dimen/width"
+        android:layout_height="@dimen/mian_frag_hegth"
+        android:background="@color/white"
+        android:orientation="vertical">
+
+        <LinearLayout
+            android:layout_width="@dimen/width"
+            android:layout_height="@dimen/height_hifi_tool"
+            android:orientation="horizontal">
+
+            <EditText
+                android:id="@+id/edit_key"
+                android:layout_width="300dp"
+                android:layout_height="@dimen/height_hifi_tool"
+                android:layout_marginLeft="10dp"
+                android:hint="歌名/歌手/专辑"
+                android:textColor="@color/text_hifi"
+                android:textSize="@dimen/f14" />
+
+            <Button
+                android:id="@+id/btn_search"
+                android:layout_width="55dp"
+                android:layout_height="@dimen/height_hifi_tool"
+                android:layout_marginRight="10dp"
+                android:background="@color/white"
+                android:text="search"
+                android:textColor="@color/blue"
+                android:textSize="@dimen/f14" />
+        </LinearLayout>
+
+        <ListView
+            android:layout_width="@dimen/width"
+            android:layout_height="486dp"
+            android:id="@+id/list_search"></ListView>
+    </LinearLayout>
+
+</FrameLayout>

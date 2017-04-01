@@ -2,24 +2,35 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.example.wufan.baoer_android">
 
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+
     <application
         android:allowBackup="false"
         android:icon="@mipmap/ic_launcher"
-        android:label="@string/app_name"
+        android:label=""
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
         <activity
-            android:name=".main.MainActivity"
+            android:name=".main.HifiMusic.HifiMusicActivity"
             android:theme="@style/AppTheme">
-        <intent-filter>
-            <action android:name="android.intent.action.MAIN" />
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
 
-            <category android:name="android.intent.category.LAUNCHER" />
-        </intent-filter>
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
         </activity>
         <activity android:name=".main.Bao.BaoActivity" />
-        <activity android:name=".main.HifiMusic.HifiMusicActivity" />
-        <activity android:name=".main.More.MoreActivity"></activity>
+        <activity android:name=".main.More.MoreActivity" />
+        <activity android:name=".Brand.BrandActivity" />
+        <activity android:name=".main.MainActivity" />
+        <activity android:name=".login.LoginActivity" />
+        <activity android:name=".login.operaLogin.OperaActivity" />
+        <activity android:name=".main.HifiMusic.classification.ClassificationActivity" />
+        <activity android:name=".main.HifiMusic.recommendation.RecommendationActivity" />
+        <activity android:name=".main.HifiMusic.topTrendSearch.TopTrendSearchActivity" />
+        <activity android:name=".main.HifiMusic.search.SearchActivity"></activity>
     </application>
 
 </manifest>

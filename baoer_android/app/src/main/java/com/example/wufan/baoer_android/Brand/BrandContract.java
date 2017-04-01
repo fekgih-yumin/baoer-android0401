@@ -22,13 +22,13 @@ public interface BrandContract {
 
     interface View extends BaseView<Presenter>{
 
-        void showBrandList(JSONArray brandList);//显示品牌列表
+        void showBrandList(String brandList);//显示品牌列表
 
     }
 
     interface Presenter extends BasePresenter {
 
-        JSONArray loadBrandLiat();//加载品牌列表
+        String loadBrandLiat();//加载品牌列表
 
     }
 

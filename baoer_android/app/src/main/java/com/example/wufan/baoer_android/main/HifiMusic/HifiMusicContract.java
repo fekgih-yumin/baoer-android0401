@@ -20,18 +20,12 @@ public interface HifiMusicContract {
 
     interface View extends BaseView<Presenter>{
 
-        void showCurrentMusicDetail(String musicDetail);//显示当前音乐的详情
-
-        void showMusicList(JSONArray musicList);//显示音乐列表
+        void showTabFragment();//通过滑动或点击去显示tab的Fragment
 
     }
 
     interface Presenter extends BasePresenter {
 
-
-        JSONArray loadMusicList();//加载音乐列表
-
-        void DownLoadMusic(String MusicName);//下载音乐
 
 
     }

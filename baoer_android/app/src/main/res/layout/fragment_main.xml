@@ -5,9 +5,47 @@
     tools:context="com.example.wufan.baoer_android.main.MainFragment">
 
     <!-- TODO: Update blank fragment layout -->
-    <TextView
+    <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:text="@string/hello_blank_fragment" />
+        android:orientation="vertical">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:orientation="horizontal">
+
+            <Button
+                android:id="@+id/btn_bao"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:background="@color/blue"
+                android:layout_weight="1"
+                android:textColor="@color/TextfirstToolbar"/>
+
+            <Button
+                android:id="@+id/btn_hifi"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:background="@color/blue"
+                android:layout_weight="1"
+                android:textColor="@color/TextfirstToolbar"/>
+
+            <Button
+                android:id="@+id/btn_more"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:background="@color/blue"
+                android:layout_weight="1"
+                android:textColor="@color/TextfirstToolbar"/>
+        </LinearLayout>
+        <LinearLayout
+            android:id="@+id/contentFrame"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="10"
+            android:orientation="vertical"></LinearLayout>
+    </LinearLayout>
+
 
 </FrameLayout>

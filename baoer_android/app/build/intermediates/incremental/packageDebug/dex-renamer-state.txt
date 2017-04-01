@@ -1,4 +1,4 @@
-#Wed Mar 22 15:04:28 CST 2017
+#Thu Mar 30 11:21:41 CST 2017
 base.0=/Users/wufan/android/baoer_android/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_4b3b810ec4cd8d62a39b6518d198e9ccab1832a5
 renamed.1=classes.dex
 renamed.0=classes2.dex

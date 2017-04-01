@@ -39,11 +39,20 @@
     </item>
     <item
         is-multidex="true"
+        jar="/Users/wufan/.gradle/caches/modules-2/files-2.1/cz.msebera.android/httpclient/4.3.6/526a9f794eab830eae4f23a62c572878b3f491ab/httpclient-4.3.6.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="526a9f794eab830eae4f23a62c572878b3f491ab">
+        <dex dex="/Users/wufan/android/baoer_android/app/build/intermediates/transforms/dex/debug/folders/1000/10/httpclient-4.3.6_15a1e642ffc2fcc8a9a112c01432a9530d949093/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="/Users/wufan/android/baoer_android/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
-        sha1="0486c83d1db72116c8a0658b9d902b4226747487">
+        sha1="50bbf65f228cd9959ac69169b0db1cd5e672532c">
         <dex dex="/Users/wufan/android/baoer_android/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_8f87326d9f67e3a3e4938b9ad55d264e01b47d8f/classes.dex" />
     </item>
     <item
@@ -54,6 +63,15 @@
         revision="25.0.2"
         sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
         <dex dex="/Users/wufan/android/baoer_android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.2.0_94ec619d228848bee99fe8b366c124c90a89c3d9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/wufan/android/baoer_android/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="152de8da301561dcb0946471697a420d8f7a68c5">
+        <dex dex="/Users/wufan/android/baoer_android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-25.2.0_c58c1154b8ff34cd9a8bb21a994050ce8437e8fa/classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -75,6 +93,15 @@
     </item>
     <item
         is-multidex="true"
+        jar="/Users/wufan/android/baoer_android/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="00c698455eb344e081ff076bc261977b8a125988">
+        <dex dex="/Users/wufan/android/baoer_android/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_4b3b810ec4cd8d62a39b6518d198e9ccab1832a5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="/Users/wufan/android/baoer_android/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.2.0/jars/classes.jar"
         jumboMode="true"
         optimize="true"
@@ -84,12 +111,12 @@
     </item>
     <item
         is-multidex="true"
-        jar="/Users/wufan/android/baoer_android/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jar="/Users/wufan/.gradle/caches/modules-2/files-2.1/com.loopj.android/android-async-http/1.4.9/386a4339ffe52d5d63e80f9bed8d2b1d1a418249/android-async-http-1.4.9.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
-        sha1="cfc051b4ceec3f75f6351cc5c550aaf9cd258eed">
-        <dex dex="/Users/wufan/android/baoer_android/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_4b3b810ec4cd8d62a39b6518d198e9ccab1832a5/classes.dex" />
+        sha1="386a4339ffe52d5d63e80f9bed8d2b1d1a418249">
+        <dex dex="/Users/wufan/android/baoer_android/app/build/intermediates/transforms/dex/debug/folders/1000/10/android-async-http-1.4.9_0bb4d46f209ff86da720c72d9564d729646e93f1/classes.dex" />
     </item>
     <item
         is-multidex="true"

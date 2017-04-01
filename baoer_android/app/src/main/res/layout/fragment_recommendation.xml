@@ -1,0 +1,25 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.wufan.baoer_android.main.HifiMusic.recommendation.RecommendationFragment">
+
+    <!-- TODO: Update blank fragment layout -->
+    <LinearLayout
+        android:layout_width="@dimen/width"
+        android:layout_height="@dimen/mian_frag_hegth"
+        android:orientation="vertical">
+        <TextView
+            android:layout_width="@dimen/width"
+            android:layout_height="@dimen/height_rec_title"
+            android:id="@+id/title_rec"
+            android:text="每日一推荐"
+            android:textSize="@dimen/f14"
+            android:textColor="@color/black"/>
+        <ListView
+            android:layout_width="@dimen/width"
+            android:layout_height="@dimen/height_rec_cont"
+            android:id="@+id/list_rec"></ListView>
+    </LinearLayout>
+
+</FrameLayout>

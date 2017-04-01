@@ -5,33 +5,71 @@
     density="xhdpi"
     format="8"
     plugin-version="2.2.2"
-    timestamp="82094696353824"
+    timestamp="454457961957984"
     token="-3621272822177265912"
-    verifier="FULL_BUILD_REQUESTED" >
+    verifier="CLASS_ADDED" >
 
     <task
         name="javac"
-        duration="3354" />
+        duration="516" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="884" />
+        duration="71" />
     <task
         name="verifier"
-        duration="71" />
+        duration="17" />
 
     <artifact
-        location="/Users/wufan/android/baoer_android/app/build/outputs/apk/app-debug.apk"
-        type="MAIN" />
+        location="/Users/wufan/android/baoer_android/app/build/intermediates/instant-run-resources/resources-debug.ir.ap_"
+        type="RESOURCES" />
+    <artifact
+        location="/Users/wufan/android/baoer_android/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_8/classes.dex"
+        type="DEX" />
 
     <build
-        timestamp="82094696353824"
-        verifier="FULL_BUILD_REQUESTED" >
+        timestamp="257582743163362"
+        verifier="MANIFEST_FILE_CHANGE" >
         <artifact
             location="/Users/wufan/android/baoer_android/app/build/outputs/apk/app-debug.apk"
             type="MAIN" />
+    </build>
+    <build
+        timestamp="453400602883913"
+        verifier="COLD_SWAP_REQUESTED" >
+        <artifact
+            location="/Users/wufan/android/baoer_android/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_1/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/Users/wufan/android/baoer_android/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_9/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/Users/wufan/android/baoer_android/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_6/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/Users/wufan/android/baoer_android/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_7/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/Users/wufan/android/baoer_android/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_5/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/Users/wufan/android/baoer_android/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_2/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/Users/wufan/android/baoer_android/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_4/classes.dex"
+            type="DEX" />
+    </build>
+    <build
+        timestamp="454457961957984"
+        verifier="CLASS_ADDED" >
+        <artifact
+            location="/Users/wufan/android/baoer_android/app/build/intermediates/instant-run-resources/resources-debug.ir.ap_"
+            type="RESOURCES" />
+        <artifact
+            location="/Users/wufan/android/baoer_android/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_8/classes.dex"
+            type="DEX" />
     </build>
 
 </instant-run>
